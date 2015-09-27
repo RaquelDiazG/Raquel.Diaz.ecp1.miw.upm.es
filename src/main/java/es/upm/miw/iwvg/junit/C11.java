@@ -3,6 +3,7 @@ package es.upm.miw.iwvg.junit;
 public class C11 {
 
     public String m1(){
+        //Corregido error en release
         return "m1";
     }
     
